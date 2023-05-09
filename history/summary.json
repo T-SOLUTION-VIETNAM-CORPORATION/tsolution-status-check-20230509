@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8926,
-    "timeDay": 8926,
-    "timeWeek": 8926,
-    "timeMonth": 8926,
-    "timeYear": 8926,
+    "time": 8700,
+    "timeDay": 8700,
+    "timeWeek": 8700,
+    "timeMonth": 8700,
+    "timeYear": 8700,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2163,
-    "timeDay": 2163,
-    "timeWeek": 2163,
-    "timeMonth": 2163,
-    "timeYear": 2163,
+    "time": 2101,
+    "timeDay": 2101,
+    "timeWeek": 2101,
+    "timeMonth": 2101,
+    "timeYear": 2101,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1612,
-    "timeDay": 1612,
-    "timeWeek": 1612,
-    "timeMonth": 1612,
-    "timeYear": 1612,
+    "time": 1482,
+    "timeDay": 1482,
+    "timeWeek": 1482,
+    "timeMonth": 1482,
+    "timeYear": 1482,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1662,
-    "timeDay": 1662,
-    "timeWeek": 1662,
-    "timeMonth": 1662,
-    "timeYear": 1662,
+    "time": 1686,
+    "timeDay": 1686,
+    "timeWeek": 1686,
+    "timeMonth": 1686,
+    "timeYear": 1686,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test Broken Site",
+    "url": "https://thissitedoesnotexist.koj.co",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
+    "slug": "test-broken-site",
+    "status": "down",
+    "uptime": "17.97%",
+    "uptimeDay": "17.97%",
+    "uptimeWeek": "17.97%",
+    "uptimeMonth": "17.97%",
+    "uptimeYear": "17.97%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-05-09": 0
+    }
   }
 ]
