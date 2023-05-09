@@ -3,14 +3,14 @@ owner: T-SOLUTION-VIETNAM-CORPORATION # Your GitHub organization or username, wh
 repo: tsolution-status-check-20230509 # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Beripharma
+    url: https://beripharma.com
+  - name: Maxhouse
+    url: https://maxhousevietnam.com
+  - name: Trinix
+    url: https://trinix.studio
+  - name: TPC
+    url: https://thaiphong.vn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,9 +18,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /tsolution-status-check-20230509
   logoUrl: https://avatars.githubusercontent.com/u/95016283?s=200&v=4
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Tsolution status check
+  introTitle: "Stay Informed with Tsolution's Uptime Status Website: Ensuring Reliable and Seamless Operations."
+  introMessage: "Welcome to Tsolution's Uptime Status Website! We understand the importance of reliable and uninterrupted services in today's fast-paced digital landscape. With our Uptime Status Website, we provide real-time updates on the operational status of our systems, ensuring transparency and peace of mind for our valued clients. Stay informed and stay connected as we strive to deliver seamless experiences and maintain optimal performance."
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
