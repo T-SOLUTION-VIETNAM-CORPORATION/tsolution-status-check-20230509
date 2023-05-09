@@ -11,8 +11,8 @@ sites:
     url: https://trinix.studio
   - name: TPC
     url: https://thaiphong.vn
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  # - name: Test Broken Site
+  #   url: https://thissitedoesnotexist.koj.co
 
 
 status-website:
