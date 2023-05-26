@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/beripharma.com.ico",
     "slug": "beripharma",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "93.01%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
+    "uptime": "99.58%",
+    "uptimeDay": "92.62%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
     "time": 8686,
     "timeDay": 7841,
     "timeWeek": 8740,
     "timeMonth": 8686,
     "timeYear": 8686,
     "dailyMinutesDown": {
-      "2023-05-26": 101
+      "2023-05-26": 106
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/maxhousevietnam.com.ico",
     "slug": "maxhouse",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "92.62%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
+    "uptime": "99.56%",
+    "uptimeDay": "92.24%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 2527,
     "timeDay": 6948,
     "timeWeek": 3319,
     "timeMonth": 2527,
     "timeYear": 2527,
     "dailyMinutesDown": {
-      "2023-05-26": 106
+      "2023-05-26": 112
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://thaiphong.vn",
     "icon": "https://icons.duckduckgo.com/ip3/thaiphong.vn.ico",
     "slug": "tpc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1724,
-    "timeDay": 2198,
-    "timeWeek": 1854,
+    "timeDay": 1959,
+    "timeWeek": 1837,
     "timeMonth": 1724,
     "timeYear": 1724,
     "dailyMinutesDown": {
-      "2023-05-26": 0
+      "2023-05-26": 6
     }
   }
 ]
