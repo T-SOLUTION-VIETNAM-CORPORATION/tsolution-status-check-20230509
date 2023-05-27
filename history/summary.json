@@ -4,9 +4,9 @@
     "url": "https://beripharma.com",
     "icon": "https://icons.duckduckgo.com/ip3/beripharma.com.ico",
     "slug": "beripharma",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "73.97%",
+    "uptimeDay": "73.93%",
     "uptimeWeek": "96.28%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "98.58%",
@@ -16,7 +16,7 @@
     "timeMonth": 10061,
     "timeYear": 10061,
     "dailyMinutesDown": {
-      "2023-05-27": 204,
+      "2023-05-27": 205,
       "2023-05-26": 171
     }
   },
