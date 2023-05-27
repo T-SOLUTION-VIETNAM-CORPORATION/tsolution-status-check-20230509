@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/beripharma.com.ico",
     "slug": "beripharma",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "92.62%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
+    "uptime": "99.24%",
+    "uptimeDay": "86.55%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
     "time": 8686,
-    "timeDay": 7841,
+    "timeDay": 0,
     "timeWeek": 8740,
     "timeMonth": 8686,
     "timeYear": 8686,
     "dailyMinutesDown": {
-      "2023-05-26": 106
+      "2023-05-27": 22,
+      "2023-05-26": 171
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maxhousevietnam.com.ico",
     "slug": "maxhouse",
     "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "92.24%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptime": "99.22%",
+    "uptimeDay": "86.17%",
+    "uptimeWeek": "98.02%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.22%",
     "time": 2527,
-    "timeDay": 6948,
-    "timeWeek": 3319,
+    "timeDay": 11856,
+    "timeWeek": 3485,
     "timeMonth": 2527,
     "timeYear": 2527,
     "dailyMinutesDown": {
-      "2023-05-26": 112
+      "2023-05-27": 22,
+      "2023-05-26": 177
     }
   },
   {
@@ -50,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 1460,
-    "timeDay": 1583,
-    "timeWeek": 1544,
-    "timeMonth": 1460,
-    "timeYear": 1460,
+    "time": 1444,
+    "timeDay": 1096,
+    "timeWeek": 1483,
+    "timeMonth": 1444,
+    "timeYear": 1444,
     "dailyMinutesDown": {
       "2023-05-12": 6
     }
@@ -70,11 +72,11 @@
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 1724,
-    "timeDay": 1959,
-    "timeWeek": 1837,
-    "timeMonth": 1724,
-    "timeYear": 1724,
+    "time": 1718,
+    "timeDay": 1654,
+    "timeWeek": 1799,
+    "timeMonth": 1718,
+    "timeYear": 1718,
     "dailyMinutesDown": {
       "2023-05-26": 6
     }
