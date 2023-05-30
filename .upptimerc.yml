@@ -11,6 +11,14 @@ sites:
     url: https://trinix.studio
   - name: TPC
     url: https://thaiphong.vn
+  - name: ERP
+    url: https://erp.thehillcoffee.com
+  - name: Member customer dev API
+    url: https://member-api.t-solution.vn/customer/swagger/
+  - name: Member store dev API
+    url: https://member-api.t-solution.vn/store/swagger/
+  - name: Member admin dev API
+    url: https://member-api.t-solution.vn/store/swagger/
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
 
