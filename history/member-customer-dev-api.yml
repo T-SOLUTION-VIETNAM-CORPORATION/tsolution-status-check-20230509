@@ -1,7 +1,7 @@
 url: https://member-api.t-solution.vn/customer/swagger/
-status: up
-code: 200
-responseTime: 1185
-lastUpdated: 2023-06-02T23:03:39.517Z
+status: down
+code: 502
+responseTime: 925
+lastUpdated: 2023-06-03T08:13:01.128Z
 startTime: Tue May 30 2023 13:16:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
