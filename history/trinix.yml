@@ -1,7 +1,7 @@
 url: https://trinix.studio
-status: up
-code: 200
-responseTime: 1164
-lastUpdated: 2023-06-16T16:04:34.375Z
+status: down
+code: 502
+responseTime: 19114
+lastUpdated: 2023-06-16T16:14:17.552Z
 startTime: Tue May 09 2023 08:24:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
