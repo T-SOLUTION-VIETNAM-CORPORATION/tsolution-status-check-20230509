@@ -13,12 +13,12 @@ sites:
     url: https://thaiphong.vn
   - name: ERP
     url: https://erp.thehillcoffee.com
-  - name: Member customer dev API
-    url: https://member-api.t-solution.vn/customer/swagger/
-  - name: Member store dev API
-    url: https://member-api.t-solution.vn/store/swagger/
-  - name: Member admin dev API
-    url: https://member-api.t-solution.vn/store/swagger/
+  - name: Member customer API
+    url: https://member-customer-api.doidiem.vn/health/
+  - name: Member store API
+    url: https://member-store-api.doidiem.vn/health/
+  - name: Member admin API
+    url: https://member-admin-api.doidiem.vn/health/
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
 
