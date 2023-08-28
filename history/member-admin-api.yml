@@ -1,7 +1,7 @@
 url: https://member-admin-api.doidiem.vn/health/
-status: down
-code: 502
-responseTime: 771
-lastUpdated: 2023-08-28T14:25:33.827Z
+status: up
+code: 200
+responseTime: 1192
+lastUpdated: 2023-08-28T14:31:45.480Z
 startTime: 2023-07-21T04:21:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
