@@ -19,6 +19,8 @@ sites:
     url: https://member-store-api.doidiem.vn/health/
   - name: Member admin API
     url: https://member-admin-api.doidiem.vn/health/
+  - name: Member version API
+    url: https://member-version-api.doidiem.vn/api/health
   - name: Black-red storefront
     url: https://dendofish.com
   - name: Black-red back-end
