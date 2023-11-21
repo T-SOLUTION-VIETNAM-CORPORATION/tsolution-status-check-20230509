@@ -1,7 +1,7 @@
 url: https://blackred-api.dendofish.com/health/
-status: down
-code: 523
-responseTime: 836
-lastUpdated: 2023-11-21T00:48:16.312Z
+status: up
+code: 200
+responseTime: 872
+lastUpdated: 2023-11-21T01:14:12.641Z
 startTime: 2023-08-17T11:27:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
