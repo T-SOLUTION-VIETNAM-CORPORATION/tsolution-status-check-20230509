@@ -1,7 +1,7 @@
 url: https://member-customer-api.doidiem.vn/health/
-status: up
-code: 200
-responseTime: 842
-lastUpdated: 2023-11-28T23:03:39.472Z
+status: down
+code: 523
+responseTime: 3474
+lastUpdated: 2023-11-29T14:17:16.122Z
 startTime: 2023-07-21T04:21:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
