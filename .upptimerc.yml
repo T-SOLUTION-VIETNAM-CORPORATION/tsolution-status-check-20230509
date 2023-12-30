@@ -3,8 +3,6 @@ owner: T-SOLUTION-VIETNAM-CORPORATION # Your GitHub organization or username, wh
 repo: tsolution-status-check-20230509 # The name of this repository
 
 sites:
-  - name: Beripharma
-    url: https://beripharma.com
   - name: Maxhouse
     url: https://maxhousevietnam.com
   - name: Trinix
