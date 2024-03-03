@@ -22,7 +22,7 @@ sites:
   - name: Black-red storefront
     url: https://dendofish.com
   - name: Black-red back-end
-    url: https://blackred-api.dendofish.com/health/
+    url: https://admin.dendofish.com/health/
   - name: Fnb storefront
     url: https://fnb39.com
   - name: Fnb back-end
