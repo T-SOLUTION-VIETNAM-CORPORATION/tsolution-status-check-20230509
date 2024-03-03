@@ -26,7 +26,7 @@ sites:
   - name: Fnb storefront
     url: https://fnb39.com
   - name: Fnb back-end
-    url: https://fnb-api.t-solution.vn/health/
+    url: https://fnb-backend.t-solution.vn/health/
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
 
