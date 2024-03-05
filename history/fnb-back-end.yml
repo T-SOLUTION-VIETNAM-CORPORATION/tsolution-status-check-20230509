@@ -1,7 +1,7 @@
 url: https://fnb-backend.t-solution.vn/health/
-status: up
-code: 200
-responseTime: 959
-lastUpdated: 2024-03-04T23:04:41.715Z
+status: down
+code: 404
+responseTime: 823
+lastUpdated: 2024-03-05T05:08:00.162Z
 startTime: 2023-11-29T18:43:57.128Z
 generator: Upptime <https://github.com/upptime/upptime>
