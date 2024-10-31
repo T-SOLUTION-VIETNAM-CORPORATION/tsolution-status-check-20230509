@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/maxhousevietnam.com.ico",
     "slug": "maxhouse",
     "status": "up",
-    "uptime": "97.54%",
+    "uptime": "97.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
@@ -191,10 +191,10 @@
     "url": "https://www.thehillstore.com.vn",
     "icon": "https://icons.duckduckgo.com/ip3/www.thehillstore.com.vn.ico",
     "slug": "thehill-storefront",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3930,
@@ -202,7 +202,9 @@
     "timeWeek": 3996,
     "timeMonth": 3930,
     "timeYear": 3930,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-31": 1
+    }
   },
   {
     "name": "Member customer API",
@@ -306,7 +308,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/member-version-api.doidiem.vn.ico",
     "slug": "member-version-api",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
