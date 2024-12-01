@@ -159,7 +159,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/erp.thehillcoffee.com.ico",
     "slug": "erp",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -313,18 +313,19 @@
     "url": "https://dendofish.com",
     "icon": "https://icons.duckduckgo.com/ip3/dendofish.com.ico",
     "slug": "black-red-storefront",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.78%",
-    "time": 5760,
+    "uptimeYear": "99.80%",
+    "time": 5766,
     "timeDay": 2220,
     "timeWeek": 5284,
     "timeMonth": 6578,
     "timeYear": 6516,
     "dailyMinutesDown": {
+      "2024-12-01": 1,
       "2024-11-10": 48,
       "2024-11-09": 9,
       "2024-10-30": 5,
@@ -384,7 +385,7 @@
       "2024-01-18": 1,
       "2024-01-16": 107,
       "2024-01-10": 13,
-      "2023-12-31": 128
+      "2023-12-31": 47
     }
   },
   {
