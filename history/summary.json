@@ -417,18 +417,19 @@
     "url": "https://fnb39.com",
     "icon": "https://icons.duckduckgo.com/ip3/fnb39.com.ico",
     "slug": "fnb-storefront",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 8111,
-    "timeDay": 10218,
-    "timeWeek": 8083,
-    "timeMonth": 8085,
-    "timeYear": 8516,
+    "time": 8113,
+    "timeDay": 9940,
+    "timeWeek": 8280,
+    "timeMonth": 8134,
+    "timeYear": 8518,
     "dailyMinutesDown": {
+      "2025-01-01": 0,
       "2024-11-10": 24,
       "2024-10-30": 5,
       "2024-10-22": 9,
@@ -483,7 +484,7 @@
       "2024-03-16": 7,
       "2024-03-15": 25,
       "2024-03-13": 30,
-      "2024-03-10": 12
+      "2024-03-10": 6
     }
   },
   {
