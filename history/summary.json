@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "97.69%",
     "uptimeDay": "99.27%",
-    "uptimeWeek": "52.06%",
+    "uptimeWeek": "52.27%",
     "uptimeMonth": "77.20%",
     "uptimeYear": "97.96%",
     "time": 5548,
@@ -146,9 +146,9 @@
     "url": "https://www.thehillstore.com.vn",
     "icon": "https://icons.duckduckgo.com/ip3/www.thehillstore.com.vn.ico",
     "slug": "thehill-storefront",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "99.56%",
+    "uptimeDay": "99.52%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.80%",
@@ -158,7 +158,7 @@
     "timeMonth": 4067,
     "timeYear": 5705,
     "dailyMinutesDown": {
-      "2025-07-24": 6,
+      "2025-07-24": 7,
       "2025-07-22": 26,
       "2025-07-20": 10,
       "2025-07-19": 19,
@@ -225,7 +225,7 @@
       "2025-01-15": 54,
       "2025-01-14": 9,
       "2025-01-13": 21,
-      "2025-01-12": 15
+      "2025-01-12": 5
     }
   },
   {
@@ -465,7 +465,7 @@
     "timeMonth": 995,
     "timeYear": 5967,
     "dailyMinutesDown": {
-      "2025-07-24": 1173,
+      "2025-07-24": 1195,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -679,7 +679,7 @@
     "timeMonth": 1058,
     "timeYear": 1082,
     "dailyMinutesDown": {
-      "2025-07-24": 1173,
+      "2025-07-24": 1195,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
