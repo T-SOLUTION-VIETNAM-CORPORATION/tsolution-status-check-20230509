@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/maxhousevietnam.com.ico",
     "slug": "maxhouse",
     "status": "up",
-    "uptime": "97.70%",
+    "uptime": "97.71%",
     "uptimeDay": "99.21%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "77.11%",
@@ -147,10 +147,10 @@
     "url": "https://www.thehillstore.com.vn",
     "icon": "https://icons.duckduckgo.com/ip3/www.thehillstore.com.vn.ico",
     "slug": "thehill-storefront",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.18%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.17%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.80%",
     "time": 5641,
@@ -159,7 +159,7 @@
     "timeMonth": 3989,
     "timeYear": 5641,
     "dailyMinutesDown": {
-      "2025-07-31": 10,
+      "2025-07-31": 11,
       "2025-07-29": 10,
       "2025-07-28": 15,
       "2025-07-27": 12,
@@ -229,7 +229,7 @@
       "2025-01-24": 10,
       "2025-01-22": 12,
       "2025-01-16": 5,
-      "2025-01-15": 19
+      "2025-01-15": 10
     }
   },
   {
@@ -467,7 +467,7 @@
     "timeMonth": 795,
     "timeYear": 5839,
     "dailyMinutesDown": {
-      "2025-07-31": 498,
+      "2025-07-31": 539,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -680,14 +680,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.62%",
+    "uptimeYear": "55.61%",
     "time": 1066,
     "timeDay": 1123,
     "timeWeek": 969,
     "timeMonth": 1041,
     "timeYear": 1081,
     "dailyMinutesDown": {
-      "2025-07-31": 498,
+      "2025-07-31": 539,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
