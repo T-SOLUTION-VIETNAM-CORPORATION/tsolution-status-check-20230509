@@ -216,17 +216,17 @@
     "url": "https://dendofish.com",
     "icon": "https://icons.duckduckgo.com/ip3/dendofish.com.ico",
     "slug": "black-red-storefront",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "96.51%",
-    "uptimeWeek": "99.41%",
+    "uptimeDay": "96.49%",
+    "uptimeWeek": "99.40%",
     "uptimeMonth": "99.15%",
     "uptimeYear": "99.67%",
     "time": 7733,
-    "timeDay": 6571,
-    "timeWeek": 6477,
-    "timeMonth": 7761,
-    "timeYear": 7685,
+    "timeDay": 7150,
+    "timeWeek": 6772,
+    "timeMonth": 7806,
+    "timeYear": 7690,
     "dailyMinutesDown": {
       "2025-09-19": 45,
       "2025-09-18": 5,
@@ -275,8 +275,7 @@
       "2025-04-22": 70,
       "2025-04-15": 19,
       "2025-04-09": 9,
-      "2025-04-08": 7,
-      "2025-04-07": 6
+      "2025-04-08": 7
     }
   },
   {
