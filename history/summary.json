@@ -99,9 +99,9 @@
     "url": "https://www.thehillstore.com.vn",
     "icon": "https://icons.duckduckgo.com/ip3/www.thehillstore.com.vn.ico",
     "slug": "thehill-storefront",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.75%",
@@ -111,6 +111,7 @@
     "timeMonth": 4147,
     "timeYear": 5522,
     "dailyMinutesDown": {
+      "2025-10-06": 1,
       "2025-10-02": 5,
       "2025-08-27": 10,
       "2025-08-26": 17,
@@ -176,7 +177,7 @@
       "2025-03-19": 5,
       "2025-03-15": 7,
       "2025-03-13": 11,
-      "2025-03-12": 19
+      "2025-03-12": 11
     }
   },
   {
@@ -288,7 +289,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.dendofish.com.ico",
     "slug": "black-red-back-end",
     "status": "up",
-    "uptime": "94.49%",
+    "uptime": "94.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
