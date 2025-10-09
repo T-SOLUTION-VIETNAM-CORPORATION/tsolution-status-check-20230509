@@ -99,9 +99,9 @@
     "url": "https://www.thehillstore.com.vn",
     "icon": "https://icons.duckduckgo.com/ip3/www.thehillstore.com.vn.ico",
     "slug": "thehill-storefront",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "97.59%",
+    "uptimeDay": "97.56%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.75%",
@@ -176,8 +176,7 @@
       "2025-04-12": 12,
       "2025-04-06": 8,
       "2025-04-03": 20,
-      "2025-03-19": 5,
-      "2025-03-15": 7
+      "2025-03-19": 5
     }
   },
   {
@@ -224,12 +223,12 @@
     "status": "up",
     "uptime": "99.85%",
     "uptimeDay": "99.36%",
-    "uptimeWeek": "99.53%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.67%",
     "time": 7720,
     "timeDay": 10064,
-    "timeWeek": 7108,
+    "timeWeek": 6716,
     "timeMonth": 7169,
     "timeYear": 7696,
     "dailyMinutesDown": {
