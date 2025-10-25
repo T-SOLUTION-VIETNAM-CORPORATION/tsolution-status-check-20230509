@@ -186,18 +186,20 @@
     "url": "https://member-v2.thehillvietnam.com",
     "icon": "https://icons.duckduckgo.com/ip3/member-v2.thehillvietnam.com.ico",
     "slug": "member-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1127,
-    "timeDay": 1246,
-    "timeWeek": 957,
-    "timeMonth": 918,
-    "timeYear": 1127,
-    "dailyMinutesDown": {}
+    "time": 1120,
+    "timeDay": 966,
+    "timeWeek": 923,
+    "timeMonth": 910,
+    "timeYear": 1120,
+    "dailyMinutesDown": {
+      "2025-10-25": 0
+    }
   },
   {
     "name": "Member Merchant UI",
