@@ -59,12 +59,12 @@
     "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.42%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.90%",
     "time": 179,
     "timeDay": 165,
-    "timeWeek": 620,
+    "timeWeek": 143,
     "timeMonth": 301,
     "timeYear": 163,
     "dailyMinutesDown": {
@@ -104,9 +104,9 @@
     "url": "https://www.thehillstore.com.vn",
     "icon": "https://icons.duckduckgo.com/ip3/www.thehillstore.com.vn.ico",
     "slug": "thehill-storefront",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.76%",
@@ -116,6 +116,7 @@
     "timeMonth": 4383,
     "timeYear": 5476,
     "dailyMinutesDown": {
+      "2025-10-27": 0,
       "2025-10-16": 11,
       "2025-10-15": 6,
       "2025-10-13": 12,
@@ -177,8 +178,7 @@
       "2025-04-27": 14,
       "2025-04-26": 5,
       "2025-04-25": 7,
-      "2025-04-24": 11,
-      "2025-04-20": 8
+      "2025-04-24": 11
     }
   },
   {
@@ -227,12 +227,12 @@
     "status": "up",
     "uptime": "99.86%",
     "uptimeDay": "99.19%",
-    "uptimeWeek": "98.67%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.69%",
     "time": 7655,
     "timeDay": 7793,
-    "timeWeek": 6646,
+    "timeWeek": 7453,
     "timeMonth": 6443,
     "timeYear": 7657,
     "dailyMinutesDown": {
@@ -294,7 +294,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.dendofish.com.ico",
     "slug": "black-red-back-end",
     "status": "up",
-    "uptime": "94.63%",
+    "uptime": "94.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
