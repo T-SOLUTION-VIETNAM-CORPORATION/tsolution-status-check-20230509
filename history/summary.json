@@ -189,12 +189,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1104,
     "timeDay": 1055,
-    "timeWeek": 931,
+    "timeWeek": 951,
     "timeMonth": 923,
     "timeYear": 1104,
     "dailyMinutesDown": {
@@ -206,18 +206,20 @@
     "url": "https://merchant.doidiem.vn",
     "icon": "https://icons.duckduckgo.com/ip3/merchant.doidiem.vn.ico",
     "slug": "member-merchant-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1529,
-    "timeDay": 1275,
-    "timeWeek": 1546,
-    "timeMonth": 1568,
-    "timeYear": 1529,
-    "dailyMinutesDown": {}
+    "time": 1511,
+    "timeDay": 710,
+    "timeWeek": 1371,
+    "timeMonth": 1523,
+    "timeYear": 1511,
+    "dailyMinutesDown": {
+      "2025-11-01": 0
+    }
   },
   {
     "name": "Black-red storefront",
