@@ -1,7 +1,7 @@
 url: https://trinix-new.t-solution.vn
-status: up
-code: 200
-responseTime: 1016
-lastUpdated: 2025-11-17T23:04:26.701Z
+status: down
+code: 500
+responseTime: 60
+lastUpdated: 2025-11-18T11:35:42.191Z
 startTime: 2024-10-20T06:44:10.551Z
 generator: Upptime <https://github.com/upptime/upptime>
