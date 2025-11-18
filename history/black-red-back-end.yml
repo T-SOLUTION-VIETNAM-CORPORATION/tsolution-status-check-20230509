@@ -1,7 +1,7 @@
 url: https://admin.dendofish.com/health/
-status: down
-code: 500
-responseTime: 66
-lastUpdated: 2025-11-18T11:35:53.589Z
+status: up
+code: 200
+responseTime: 898
+lastUpdated: 2025-11-18T11:42:56.180Z
 startTime: 2023-08-17T11:27:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
