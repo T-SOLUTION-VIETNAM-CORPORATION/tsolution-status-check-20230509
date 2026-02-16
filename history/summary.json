@@ -106,9 +106,9 @@
     "slug": "thehill-storefront",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.73%",
     "time": 4643,
     "timeDay": 430,
@@ -116,7 +116,6 @@
     "timeMonth": 830,
     "timeYear": 3789,
     "dailyMinutesDown": {
-      "2026-02-16": 12,
       "2026-02-06": 22,
       "2025-12-05": 30,
       "2025-11-18": 130,
@@ -177,7 +176,8 @@
       "2025-06-11": 7,
       "2025-06-08": 5,
       "2025-06-06": 14,
-      "2025-05-31": 18
+      "2025-05-31": 18,
+      "2025-05-27": 10
     }
   },
   {
@@ -274,18 +274,19 @@
     "url": "https://dendofish.com",
     "icon": "https://icons.duckduckgo.com/ip3/dendofish.com.ico",
     "slug": "black-red-storefront",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "95.54%",
     "uptimeMonth": "94.58%",
-    "uptimeYear": "99.37%",
-    "time": 7981,
-    "timeDay": 9871,
-    "timeWeek": 9637,
-    "timeMonth": 9791,
-    "timeYear": 8097,
+    "uptimeYear": "99.38%",
+    "time": 7997,
+    "timeDay": 17138,
+    "timeWeek": 10059,
+    "timeMonth": 9880,
+    "timeYear": 8116,
     "dailyMinutesDown": {
+      "2026-02-16": 0,
       "2026-02-13": 99,
       "2026-02-12": 94,
       "2026-02-11": 69,
@@ -332,8 +333,7 @@
       "2025-09-03": 10,
       "2025-09-02": 6,
       "2025-08-29": 8,
-      "2025-08-28": 69,
-      "2025-08-27": 27
+      "2025-08-28": 69
     }
   },
   {
