@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/trinix-new.t-solution.vn.ico",
     "slug": "trinix-backend",
     "status": "down",
-    "uptime": "96.56%",
+    "uptime": "96.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "38.29%",
-    "uptimeYear": "94.83%",
+    "uptimeMonth": "38.13%",
+    "uptimeYear": "94.82%",
     "time": 1241,
     "timeDay": 722,
     "timeWeek": 997,
     "timeMonth": 1040,
     "timeYear": 1201,
     "dailyMinutesDown": {
-      "2026-04-21": 1422,
+      "2026-04-22": 51,
+      "2026-04-21": 1440,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
@@ -363,7 +364,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.49%",
+    "uptimeYear": "93.51%",
     "time": 916,
     "timeDay": 766,
     "timeWeek": 818,
@@ -393,8 +394,7 @@
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
-      "2025-04-23": 1440,
-      "2025-04-22": 1440
+      "2025-04-23": 1440
     }
   }
 ]
